@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# http://ruby.learncodethehardway.org/book/ex17.html
 
 from_file, to_file = ARGV
 script = $0
